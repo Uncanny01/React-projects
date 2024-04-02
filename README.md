@@ -15,19 +15,19 @@
   Open your preferred Integrated Development Environment (IDE), such as Visual Studio Code (VS Code).
 ## Step 2 - Navigate to Project Folder:
   Using the terminal integrated into your IDE or a separate terminal window, navigate to the desired folder where you want to clone the project.
-  e.g. - `cd path/to/desired/folder`
+  Example - `cd path/to/desired/folder`
 ## Step 3 - Clone the Repository:
   Clone the GitHub repository into your local environment using Git.
-  use - `git clone https://github.com/Uncanny01/ToDoApp.git`
+  Use - `git clone https://github.com/Uncanny01/ToDoApp.git`
 ## Step 4 - Change Directory:
   Change into the cloned project directory.
-  use - `cd ToDoApp`
+  Use - `cd ToDoApp`
 ## Step 5 - Install Dependencies:
   Install the project dependencies using npm (Node Package Manager).
-  use `npm install`
+  Use `npm install`
 ## Step 6 - Start the Development Server:
   Start the development server to run the React application locally.
-  use `npm run dev`
+  Use `npm run dev`
 ## Step 7 - Access the Application:
   Once the development server is running, copy the localhost link from your terminal (it usually starts with http://localhost:3000) and paste it into your web browser's address bar.
 ## Step 8 - Explore the Application:
