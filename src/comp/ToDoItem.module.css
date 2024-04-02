@@ -1,0 +1,21 @@
+.itemDiv
+{
+  display: grid;
+  grid-template-columns: 60% 30% 10%;
+  margin-top: 10px;
+}
+
+.btn{
+  width: 40px;
+  font-size: large;
+  padding: 10px 0px 5px 0px;
+  background-color: #9a031e;
+  border: none;
+  border-radius: 5px;
+}
+.btn:hover
+{
+  cursor: pointer;
+  background-color: #e71d36;
+  transform: scale(1.1);
+}
